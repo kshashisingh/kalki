@@ -1,0 +1,7 @@
+best_model: gb
+best_model_name: Gradient Boosting
+best_pr_auc: 0.5795
+best_roc_auc: 0.9796
+feature_set: behavioural
+n_features: 20
+n_samples: 560913
